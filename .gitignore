@@ -34,3 +34,4 @@ build/
 /.envrc
 /.gradle/
 /lib/
+/.env
